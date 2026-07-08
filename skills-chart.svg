@@ -1,0 +1,66 @@
+<svg viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgS" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="barPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="barTeal" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <clipPath id="roundedS"><rect width="900" height="400" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#roundedS)">
+    <rect width="900" height="400" fill="url(#bgS)"/>
+    <text x="36" y="46" font-family="Consolas, monospace" font-size="16" fill="#6b7280">chamudi@devops:~$ cat skills.json</text>
+    <line x1="36" y1="60" x2="864" y2="60" stroke="#ffffff" stroke-opacity="0.08"/>
+
+    <!-- Bars: label, pct, y, color -->
+    <!-- Playwright Automation 90 -->
+    <text x="36" y="95" font-family="Consolas, monospace" font-size="15" fill="#f8fafc">Playwright / Test Automation</text>
+    <rect x="36" y="104" width="828" height="10" rx="5" fill="#ffffff" opacity="0.08"/>
+    <rect x="36" y="104" width="745" height="10" rx="5" fill="url(#barTeal)"/>
+    <text x="864" y="98" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#2dd4bf">90%</text>
+
+    <!-- TypeScript / JavaScript 85 -->
+    <text x="36" y="140" font-family="Consolas, monospace" font-size="15" fill="#f8fafc">TypeScript / JavaScript</text>
+    <rect x="36" y="149" width="828" height="10" rx="5" fill="#ffffff" opacity="0.08"/>
+    <rect x="36" y="149" width="704" height="10" rx="5" fill="url(#barPurple)"/>
+    <text x="864" y="143" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#a78bfa">85%</text>
+
+    <!-- Docker / Containerization 82 -->
+    <text x="36" y="185" font-family="Consolas, monospace" font-size="15" fill="#f8fafc">Docker &amp; Containerization</text>
+    <rect x="36" y="194" width="828" height="10" rx="5" fill="#ffffff" opacity="0.08"/>
+    <rect x="36" y="194" width="679" height="10" rx="5" fill="url(#barTeal)"/>
+    <text x="864" y="188" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#2dd4bf">82%</text>
+
+    <!-- React / Node.js 78 -->
+    <text x="36" y="230" font-family="Consolas, monospace" font-size="15" fill="#f8fafc">React / Node.js (MERN)</text>
+    <rect x="36" y="239" width="828" height="10" rx="5" fill="#ffffff" opacity="0.08"/>
+    <rect x="36" y="239" width="646" height="10" rx="5" fill="url(#barPurple)"/>
+    <text x="864" y="233" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#a78bfa">78%</text>
+
+    <!-- SQL / Databases 78 -->
+    <text x="36" y="275" font-family="Consolas, monospace" font-size="15" fill="#f8fafc">SQL / Databases</text>
+    <rect x="36" y="284" width="828" height="10" rx="5" fill="#ffffff" opacity="0.08"/>
+    <rect x="36" y="284" width="646" height="10" rx="5" fill="url(#barTeal)"/>
+    <text x="864" y="278" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#2dd4bf">78%</text>
+
+    <!-- Kubernetes 68 -->
+    <text x="36" y="320" font-family="Consolas, monospace" font-size="15" fill="#f8fafc">Kubernetes</text>
+    <rect x="36" y="329" width="828" height="10" rx="5" fill="#ffffff" opacity="0.08"/>
+    <rect x="36" y="329" width="563" height="10" rx="5" fill="url(#barPurple)"/>
+    <text x="864" y="323" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#a78bfa">68%</text>
+
+    <!-- Java / Python 72 -->
+    <text x="36" y="365" font-family="Consolas, monospace" font-size="15" fill="#f8fafc">Java / Python</text>
+    <rect x="36" y="374" width="828" height="10" rx="5" fill="#ffffff" opacity="0.08"/>
+    <rect x="36" y="374" width="596" height="10" rx="5" fill="url(#barTeal)"/>
+    <text x="864" y="368" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#2dd4bf">72%</text>
+  </g>
+</svg>
