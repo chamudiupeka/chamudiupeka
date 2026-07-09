@@ -35,15 +35,15 @@
     <circle cx="30" cy="23" r="7" fill="#ff5f56"/>
     <circle cx="55" cy="23" r="7" fill="#ffbd2e"/>
     <circle cx="80" cy="23" r="7" fill="#27c93f"/>
-    <text x="600" y="28" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#9ca3af">chamudi@devops-engineer — zsh</text>
+    <text x="600" y="28" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#9ca3af">chamudi@software-engineer — zsh</text>
     <line x1="0" y1="46" x2="1200" y2="46" stroke="#ffffff" stroke-opacity="0.08"/>
 
     <!-- terminal body -->
-    <text x="60" y="108" font-family="Consolas, monospace" font-size="18" fill="#6b7280">chamudi@devops:~$ whoami</text>
+    <text x="60" y="108" font-family="Consolas, monospace" font-size="18" fill="#6b7280">chamudi@dev:~$ whoami</text>
     <text x="60" y="168" font-family="Consolas, monospace" font-size="52" font-weight="700" fill="#f8fafc">Chamudi Upeka</text>
 
-    <text x="60" y="220" font-family="Consolas, monospace" font-size="18" fill="#6b7280">chamudi@devops:~$ cat role.txt</text>
-    <text x="60" y="255" font-family="Consolas, monospace" font-size="20" fill="#2dd4bf">QA Automation &#183; DevOps Enthusiast &#183; Full-Stack Developer</text>
+    <text x="60" y="220" font-family="Consolas, monospace" font-size="18" fill="#6b7280">chamudi@dev:~$ cat role.txt</text>
+    <text x="60" y="255" font-family="Consolas, monospace" font-size="20" fill="#2dd4bf">Software Engineer &#183; QA Automation &#183; Full-Stack Developer</text>
     <rect x="782" y="238" width="12" height="22" fill="#2dd4bf">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
