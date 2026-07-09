@@ -9,7 +9,7 @@
   </defs>
   <g clip-path="url(#roundedF)">
     <rect width="1200" height="120" fill="url(#bgF)"/>
-    <text x="600" y="55" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#6b7280">chamudi@devops:~$ echo "thanks for stopping by"</text>
+    <text x="600" y="55" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#6b7280">chamudi@dev:~$ echo "thanks for stopping by"</text>
     <text x="600" y="85" text-anchor="middle" font-family="Consolas, monospace" font-size="18" fill="#2dd4bf">Let's build something great together 🚀</text>
   </g>
 </svg>
