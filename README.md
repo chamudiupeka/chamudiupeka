@@ -1,8 +1,8 @@
 <!-- ===================== HEADER ===================== -->
-<img src="./banner.svg" width="100%" alt="Chamudi Upeka — DevOps & QA Engineer"/>
+<img src="./banner.svg" width="100%" alt="Chamudi Upeka — Software Engineer"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Playwright+%7C+TypeScript+%7C+Test+Automation;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+scalable%2C+reliable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+CS+Undergraduate;Playwright+%7C+TypeScript+%7C+Test+Automation;React+%7C+Node.js+%7C+Spring+Boot;Building+scalable%2C+reliable+systems" alt="Typing SVG" />
 </div>
 
 <br/>
