@@ -110,21 +110,13 @@ Platform connecting patients, doctors, and donors for prescriptions, consultatio
 <!-- ===================== GITHUB STATS / CHARTS ===================== -->
 ### `$ git log --stats --graph`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=2dd4bf&icon_color=a78bfa&text_color=f8fafc" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=donut&hide_border=true&bg_color=0a0e27&title_color=2dd4bf&text_color=f8fafc" width="30%"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true&background=0a0e27&ring=7c3aed&fire=2dd4bf&currStreakLabel=2dd4bf" width="80%"/>
 </div>
 
-<div align="center">
 
-<!-- Animated contribution snake — see setup note below -->
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
-
-</div>
 
 <br/>
 
