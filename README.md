@@ -21,6 +21,14 @@ Computer Science undergraduate at the **University of Colombo** with industry ex
 <tr>
 <td width="50%" valign="top">
 
+**💼 Software Engineer Intern —Stacknet**
+*May 2026 –Presesnt*
+- 
+
+
+</td>
+<td width="50%" valign="top">
+
 **💼 QA Engineer Intern — OrangeHRM**
 *Nov 2025 – May 2026*
 - Automation testing with Playwright & TypeScript in Agile sprints
