@@ -19,15 +19,16 @@ Computer Science undergraduate at the **University of Colombo** with industry ex
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **💼 Software Engineer Intern —Stacknet**
 *May 2026 –Presesnt*
-- 
-
-
+- Built features for an enterprise ERP system using HTML, Python (Flask), and PostgreSQL
+- Designed and wrote test cases to validate ERP modules, catching bugs before release
+- Collaborated in Agile sprints — sprint planning, standups, and code reviews via Git/GitHub
+- Debugged and resolved issues surfaced during QA and UAT cycles
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **💼 QA Engineer Intern — OrangeHRM**
 *Nov 2025 – May 2026*
@@ -37,7 +38,7 @@ Computer Science undergraduate at the **University of Colombo** with industry ex
 - Defect tracking and sprint management with Jira & Zoho
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **🎓 BSc. in Computer Science**
 University of Colombo School of Computing
