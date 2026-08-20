@@ -122,7 +122,7 @@ Platform connecting patients, doctors, and donors for prescriptions, consultatio
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true&background=0a0e27&ring=7c3aed&fire=2dd4bf&currStreakLabel=2dd4bf" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamudiupeka&hide_border=true&background=0a0e27&ring=7c3aed&fire=2dd4bf&currStreakLabel=2dd4bf" width="80%"/>
 </div>
 
 
